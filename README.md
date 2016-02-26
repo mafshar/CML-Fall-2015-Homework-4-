@@ -1,4 +1,4 @@
-# CML-Fall-2015-Homework-4-
+# CML-Fall-2015-Homework-4
 
 This contains three files: a kmeansImplementation.py, a projectMaterials.py, and a new project report.
 
